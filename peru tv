@@ -1,0 +1,67 @@
+#EXTINF:-1,TV PERU
+http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Lda3xv_LpuM/hqdefault.jpg" group-title="PERU",Antares TV
+http://tvpremiumhd.club/lista-gratuita/140030/on/live.php?id=173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg" group-title="PERU",BHtv
+http://tvpremiumhd.club/lista-gratuita/140030/on/live.php?id=cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg" group-title="PERU",BHtv (OP2)
+http://tvpremiumhd.club/lista-gratuita/140030/on/live.php?id=cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="PERU",Radio San Borja 91.1 FM Lima
+http://tvpremiumhd.club/lista-gratuita/140030/on/lives.php?id=5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PERU",TV Noticias 7.3
+http://tvpremiumhd.club/lista-gratuita/140030/on/live.php?id=cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hostcartoon.com/cartoonproducciones/wp-content/uploads/2014/08/2willax.jpg" group-title="PERU",Willax TV
+http://tvpremiumhd.club/lista-gratuita/140030/on/live.php?id=movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+
+#EXTINF:-1,Canal películas
+https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1,Identidad peruana 
+http://cdnh15.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,Canal 1019
+http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
+
+#EXTINF:-1,Ovación TV
+https://5949aa132c8fb.streamlock.net:554/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1,Turbo mix
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8
+
+#EXTINF:-1,Willax TV
+http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
+
+#EXTINF:-1,ATV 
+http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
+
+#EXTINF:-1,TV PERU
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1,TV PERU 7.3
+http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1,IPTV 7.4
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,OVACION
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1,SOL TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+
+#EXTINF:-1,COSMOS TV
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+
+#EXTINF:-1,CENTRAL TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1,RBC PERU
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+
+#EXTINF:-1,Panamericana 
+stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFmbzSUECufGdoYH9WDSBMUc)/dm/3/x774s7s/s/live-4.m3u8
