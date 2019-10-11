@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-peru
-
 
 #EXTINF:-1 tvg-id="" tvg-name="PE: LATINA" tvg-logo="https://i.imgur.com/nxfIa7k.png" group-title="PERU",PE: LATINA
 https://live-normal-movistar-hls.latina.pe/egress/bhandler/cialatina/live/manifest.m3u8
@@ -155,7 +153,7 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.photocall.tv/images/panamericana.png", Panamericana TV 
-https://panamericana.pe/tvenvivoh
+https://panamericana.pe/tvenvivoh.m3u8
 
 #EXTINF:-1 tvg-logo="http://willax.tv/wp-content/uploads/2018/05/willax-logo-imagen.png", Willax TV 
 http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
