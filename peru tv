@@ -9,9 +9,6 @@ https://live-normal-movistar-hls.latina.pe/egress/bhandler/cialatina/live/chunkl
 #EXTINF:-1 tvg-id="" tvg-name="PE: PANAMERICANA" tvg-logo="https://i.imgur.com/T65VNVk.png" group-title="PERU",PE: PANAMERICANA
 http://tvpremiumhd.club/lista-gratuita/140030/tv/live.php?id=3005
 
-#EXTINF:-1 tvg-id="" tvg-name="FRECUENCIA LATINA" tvg-logo="" group-title="PERU",FRECUENCIA LATINA
-http://its.nextleveliptv.net:8000/1hm4AD0B90/2dw98KT4hl/2679
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="PERU",Antares TV
 http://tvpremiumhd.club/lista-gratuita/140030/on/iptv.php?id=173.192.105.252:1935/iptvantares/liveantarestv/playlist
 
