@@ -74,72 +74,38 @@ http://tv.latintvweb.com:25461/nada18608957765pe/iM33GwRuPE/578
 http://tv.latintvweb.com:25461/nada18608957765pe/iM33GwRuPE/647
 #EXTINF:-1 tvg-id="" tvg-name="PER-TV Peru(M2)" tvg-logo="" group-title="PERU",PER-TV Peru(M2)
 http://tv.latintvweb.com:25461/nada18608957765pe/iM33GwRuPE/577
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru | HD
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="http://tvpremiumhd.club/lista-gratuita/004208/tv/lives.php?id=upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU", TV Peru
 http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tvperu73.png?resize=218%2C150" group-title="PERU", TV Peru 7.3
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cultura24.png" group-title="PERU", CULTURA 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w2048970609_b564000_sles.m3u8 
-
 #EXTINF:-1 tvg-logo="http://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" group-title="PERU", IPE TV
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg" group-title="PERU", BH TV
-
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/chunklist_w848019846.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="PERU", TV PERU 7.3
 http://bit.ly/TvPeruNoticias-Peru-Tvninjaxd?Live:0006.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="PERU", TV PERU
 http://cdnh4.iblups.com/hls/irtp.m3u8
-
 #EXTINF:-1 tvg-logo="https://cde.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-603x339-20342.jpg" group-title="PERU", AMERICA TV
 https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?uid=k6r6ylSpuvMH6JQXDPz1jxsbn97zXifw&sid=0Lx7hhlvMSMJWYtblGbTUdXHwLB6cuNh&pid=CyuWNeaPF1vb8N6ZxYt7A2WjEBNmVdy9&ref=&res=940x529&dnt=true&access_token=1kQwAUD9LVTXsn1xmJT8tug5GhHfqZJQ3uqheUnScZAW72dP1Zm4Kbz7oZ4p8oras2RkeIluDxY&es=ecdn-mediastream.cdn.mdstrm.com&proto=https&pz=us
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="PERU", Canal del Congreso
 http://stream.congreso.gob.pe/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="PERU", america tv SD
 https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?dnt=true&access_token=64gUmRfGNTCL8jmFhYyvlU4snJLJ9bKV2qk5aSIWxwp3GGE5FbodoPXXzfaOeRyfDYBHGGCBLTX&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1559865059413&ot=5lj1KVb1z2E_gO9RjDDRgQ&proto=https&pz=us
 #EXTINF:-1 tvg-logo="" group-title="PERU", 
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", X-MEN
 https://drive.google.com/open?id=12OfBtrZUuylBY5Iblr_6BzVWi-zHKIKr
 #EXTINF:-1 tvg-logo="" group-title="PERU", 
-
 #EXTINF:-1 tvg-logo="" group-title="PERU", DirecTV Sports
 http://23.237.22.207/livestream/directv.m3u8?token=nULRjPnSn5MQibxUZFvUSQ&expires=1560640293
-
 #EXTINF:-1 tvg-logo="" group-title="PERU", AMERICA TV
 https://ul.cdn946.net:8443/hls/nmt085owflt43n.m3u8?s=loLIgjmrBQTFVdDwQ1we7w&e=1560649295
 #EXTINF:-1 tvg-logo="" group-title="PERU", 
@@ -181,20 +147,10 @@ http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8
 #EXTINF:-1, tvg-logo="http://paxtvmovil.org/img/logo.png", Pax
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b598000.m3u8
 ---------------------------
-
-
 #EXTINF:-1 tvg-logo="https://cde.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-588x368-20342.jpg" group-title="PERU", america tv hd
-
-
-
-
-
 Deporte
-
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT" tvg-logo="https://i.imgur.com/7eDwCu3.png" group-title="DEPORTES",TNT SPORT
 http://tvpremiumhd.club/lista-gratuita/140030/tv/live.php?id=2988
-
-
 dibujos
 #EXTINF:-1,TV PERU
 http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
