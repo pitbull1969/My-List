@@ -1,2 +1,2 @@
 # EPG List-Tv
-Play loader url by Rafo
+EPG url by Rafo
