@@ -1,2 +1,2 @@
-# Peru-Local-Tv
+# EPG List-Tv
 Play loader url by Rafo
